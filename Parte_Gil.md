@@ -43,3 +43,27 @@ Listar los commits desde una fecha:
 Ver cambios en el directorio:
 
 **`git status`**
+
+**Comandos básicos III**
+
+ver diferencia entre ficheros en el directorio y el repositorio de git:
+
+**`git diff`**
+
+Ver diferencia entre ficheros en el *staging* y el repositorio:
+
+**`git diff --staged`**
+
+Eliminar archivos:
+
+~~~
+**git rm archivo**
+**git commit -m "Mensaje"**
+~~~
+
+Mover o renombrar archivos:
+
+~~~
+**git mv antiguo archivo**
+**git commit -m "Mensaje"**
+~~~
