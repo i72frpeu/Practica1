@@ -56,14 +56,11 @@ Ver diferencia entre ficheros en el *staging* y el repositorio:
 
 Eliminar archivos:
 
-~~~
-**git rm archivo**
-**git commit -m "Mensaje"**
-~~~
+
+**`git rm archivo`**
+**`git commit -m "Mensaje"`**
 
 Mover o renombrar archivos:
 
-~~~
-**git mv antiguo archivo**
-**git commit -m "Mensaje"**
-~~~
+**`git mv antiguo archivo`**
+**`git commit -m "Mensaje"`**
