@@ -39,13 +39,11 @@ Renombrar ramas:
 **`git branch rama_antigua rama_nueva`**
 
 Eliminar ramas:
-~~~
 
 **git branch -d nombre_rama**
 
 **git branch -D nombre_rama**
 
-~~~
 Integrar ramas a la actual:
 
 **`git merge nombre_rama`**
@@ -73,11 +71,9 @@ Eliminar un cambio temporal:
 **`git stash drop nombre_stash`**
 
 Aplicar cambio del stash:
-~~~
 
 **`git stash apply nombre_stash`**
 
 **`git stash pop nombre_stash`**
 
-~~~
 
