@@ -6,7 +6,7 @@ Es la forma para separar la línea actual de desarrollo con respeccto a la princ
 
 ![imagen ramas git](https://uialberto.files.wordpress.com/2016/11/gitflowui.png)
 
-## Comando Ramas I
+## Comandos Ramas I
 
 Ver listado de ramas:
 
@@ -40,9 +40,9 @@ Renombrar ramas:
 
 Eliminar ramas:
 
-**git branch -d nombre_rama**
+**`git branch -d nombre_rama`**
 
-**git branch -D nombre_rama**
+**`git branch -D nombre_rama`**
 
 Integrar ramas a la actual:
 
